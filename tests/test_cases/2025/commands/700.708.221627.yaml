@@ -1,0 +1,11 @@
+command_id: 700.708.221627
+test_cases:
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 75
+  response: '708056216277300'
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 76.875
+  response: '7080562162774E0'
+- expected_values:
+    TOYOTA_TRANSMISSION_FLUID_PAN_T_VAR_3: 92.5
+  response: '708056216278480'
