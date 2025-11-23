@@ -1,0 +1,38 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    TOYOTA_ECT_IGN: 78.75
+    TOYOTA_ECT_INIT: 85
+  response: 70805621041BEC8
+- expected_values:
+    TOYOTA_ECT_IGN: 78.75
+    TOYOTA_ECT_INIT: 85.625
+  response: 70805621041BEC9
+- expected_values:
+    TOYOTA_ECT_IGN: 78.75
+    TOYOTA_ECT_INIT: 86.875
+  response: 70805621041BECB
+- expected_values:
+    TOYOTA_ECT_IGN: 78.75
+    TOYOTA_ECT_INIT: 87.5
+  response: 70805621041BECC
+- expected_values:
+    TOYOTA_ECT_IGN: 78.75
+    TOYOTA_ECT_INIT: 88.75
+  response: 70805621041BECE
+- expected_values:
+    TOYOTA_ECT_IGN: 78.75
+    TOYOTA_ECT_INIT: 89.375
+  response: 70805621041BECF
+- expected_values:
+    TOYOTA_ECT_IGN: 78.75
+    TOYOTA_ECT_INIT: 90
+  response: 70805621041BED0
+- expected_values:
+    TOYOTA_ECT_IGN: 78.75
+    TOYOTA_ECT_INIT: 91.25
+  response: 70805621041BED2
+- expected_values:
+    TOYOTA_ECT_IGN: 78.75
+    TOYOTA_ECT_INIT: 91.875
+  response: 70805621041BED3
