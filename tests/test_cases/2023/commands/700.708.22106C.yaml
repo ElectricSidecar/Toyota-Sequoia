@@ -1,0 +1,14 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 64207
+  response: 7080562106CFACF
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 64255
+  response: 7080562106CFAFF
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 64256
+  response: 7080562106CFB00
+- expected_values:
+    TOYOTA_DIST_SINCE_BAT_DISC: 65535
+  response: 7080562106CFFFF
