@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_Sequoia"
+
 generations:
   - name: "First Generation (XK30/XK40)"
     start_year: 2000
