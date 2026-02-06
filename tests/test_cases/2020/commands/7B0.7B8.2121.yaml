@@ -1,0 +1,47 @@
+command_id: 7B0.7B8.2121
+test_cases:
+- expected_values:
+    TOYOTA_VEHICLE_SPEED_7B0: 0
+    TOYOTA_VSS: 0
+    TOYOTA_VSS_V3: 0
+  response: 7B803612100
+- expected_values:
+    TOYOTA_VEHICLE_SPEED_7B0: 11.52
+    TOYOTA_VSS: 12.15
+    TOYOTA_VSS_V3: 11.52
+  response: 7B803612109
+- expected_values:
+    TOYOTA_VEHICLE_SPEED_7B0: 40.96
+    TOYOTA_VSS: 43.2
+    TOYOTA_VSS_V3: 40.96
+  response: 7B803612120
+- expected_values:
+    TOYOTA_VEHICLE_SPEED_7B0: 47.36
+    TOYOTA_VSS: 49.95
+    TOYOTA_VSS_V3: 47.36
+  response: 7B803612125
+- expected_values:
+    TOYOTA_VEHICLE_SPEED_7B0: 52.48
+    TOYOTA_VSS: 55.35
+    TOYOTA_VSS_V3: 52.48
+  response: 7B803612129
+- expected_values:
+    TOYOTA_VEHICLE_SPEED_7B0: 55.04
+    TOYOTA_VSS: 58.05
+    TOYOTA_VSS_V3: 55.04
+  response: 7B80361212B
+- expected_values:
+    TOYOTA_VEHICLE_SPEED_7B0: 56.32
+    TOYOTA_VSS: 59.4
+    TOYOTA_VSS_V3: 56.32
+  response: 7B80361212C
+- expected_values:
+    TOYOTA_VEHICLE_SPEED_7B0: 76.8
+    TOYOTA_VSS: 81
+    TOYOTA_VSS_V3: 76.8
+  response: 7B80361213C
+- expected_values:
+    TOYOTA_VEHICLE_SPEED_7B0: 101.12
+    TOYOTA_VSS: 106.65
+    TOYOTA_VSS_V3: 101.12
+  response: 7B80361214F
