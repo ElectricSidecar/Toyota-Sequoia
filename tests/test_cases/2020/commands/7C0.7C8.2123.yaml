@@ -1,0 +1,38 @@
+command_id: 7C0.7C8.2123
+test_cases:
+- expected_values:
+    TOYOTA_COOLANT_T: 45
+    TOYOTA_ECT_7C0: 45
+  response: 7C80361235A
+- expected_values:
+    TOYOTA_COOLANT_T: 52
+    TOYOTA_ECT_7C0: 52
+  response: 7C803612368
+- expected_values:
+    TOYOTA_COOLANT_T: 57.5
+    TOYOTA_ECT_7C0: 57.5
+  response: 7C803612373
+- expected_values:
+    TOYOTA_COOLANT_T: 68
+    TOYOTA_ECT_7C0: 68
+  response: 7C803612388
+- expected_values:
+    TOYOTA_COOLANT_T: 72.5
+    TOYOTA_ECT_7C0: 72.5
+  response: 7C803612391
+- expected_values:
+    TOYOTA_COOLANT_T: 77.5
+    TOYOTA_ECT_7C0: 77.5
+  response: 7C80361239B
+- expected_values:
+    TOYOTA_COOLANT_T: 89.5
+    TOYOTA_ECT_7C0: 89.5
+  response: 7C8036123B3
+- expected_values:
+    TOYOTA_COOLANT_T: 91
+    TOYOTA_ECT_7C0: 91
+  response: 7C8036123B6
+- expected_values:
+    TOYOTA_COOLANT_T: 91.5
+    TOYOTA_ECT_7C0: 91.5
+  response: 7C8036123B7
