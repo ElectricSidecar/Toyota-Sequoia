@@ -1,0 +1,32 @@
+command_id: 700.708.221087
+test_cases:
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0
+  response: '708056210870000'
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0.03906
+  response: '708056210870004'
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0.04882
+  response: '708056210870005'
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0.07811
+  response: '708056210870008'
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0.08788
+  response: '708056210870009'
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0.11717
+  response: 70805621087000C
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0.12694
+  response: 70805621087000D
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0.1367
+  response: 70805621087000E
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 0.17576
+  response: '708056210870012'
+- expected_values:
+    TOYOTA_INTAKE_VVT_CHANGE_ANGLE_BANK_1: 14.63661
+  response: 7080562108705DB
