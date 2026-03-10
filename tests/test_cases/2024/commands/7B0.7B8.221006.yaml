@@ -1,0 +1,23 @@
+command_id: 7B0.7B8.221006
+test_cases:
+- expected_values:
+    TOYOTA_MASTER_CYL_TEMP: 50
+  response: 7B8056210068200
+- expected_values:
+    TOYOTA_MASTER_CYL_TEMP: 51
+  response: 7B8056210068300
+- expected_values:
+    TOYOTA_MASTER_CYL_TEMP: 54
+  response: 7B8056210068600
+- expected_values:
+    TOYOTA_MASTER_CYL_TEMP: 55
+  response: 7B8056210068700
+- expected_values:
+    TOYOTA_MASTER_CYL_TEMP: 56
+  response: 7B8056210068800
+- expected_values:
+    TOYOTA_MASTER_CYL_TEMP: 57
+  response: 7B8056210068900
+- expected_values:
+    TOYOTA_MASTER_CYL_TEMP: 58
+  response: 7B8056210068A00
